@@ -1,4 +1,4 @@
-#Hi there, I'm Tejas 👋
+###Hi there, I'm Tejas 👋
 
 <!--
 **TejasAghade/TejasAghade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-# 💫About Me :
-- 🔭 I’m currently a student 
+# Hi there, I'm Tejas 👋
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejasaghade) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tejasaghade) 

@@ -1,5 +1,5 @@
 Hi there, I'm Tejas 👋
-
+Senior JavaScript Developer 
 <!--
 **TejasAghade/TejasAghade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 Hi there, I'm Tejas 👋
-Full Stack Mobile App Developer 
+Full Stack Developer 
 <!--
 **TejasAghade/TejasAghade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
